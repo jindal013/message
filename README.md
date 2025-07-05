@@ -7,7 +7,7 @@ Dependencies: Twilio
 2. Load env variables to .env
 3. Fill in 'info.py'
 4. Run the following code snippets:
-``` Python
+``` bash
 python check.py
 python main.py
 ```
